@@ -31,4 +31,4 @@ Extract attachments from all .eml files in the specified directory and its subdi
 
 ```ruby EmlRipper.rb -s /path/to/eml/files -r -d /path/to/save/attachments```
 
-Please note that this script was created by Mystik for personal use and is not officially supported. Use at your own risk.
+Please note that this script was created by [Mystik](https://twitter.com/Mystik_kev) for personal use and is not officially supported. Use at your own risk.
