@@ -8,10 +8,10 @@ To use the script, you must have Ruby installed on your computer and the Mail ge
 
 The script accepts the following options:
 
--s, --source PATH: The directory containing the .eml files to extract attachments. Default is the current working directory.
--r, --recursive: Allows recursive search for .eml files under the SOURCE directory.
--f, --files FILE: Specifies a .eml file or a list of .eml files to extract attachments.
--d, --destination PATH: The directory to extract attachments to. Default is the current working directory.
+* -s, --source PATH: The directory containing the .eml files to extract attachments. Default is the current working directory.
+* -r, --recursive: Allows recursive search for .eml files under the SOURCE directory.
+* -f, --files FILE: Specifies a .eml file or a list of .eml files to extract attachments.
+* -d, --destination PATH: The directory to extract attachments to. Default is the current working directory.
 
 ## Examples:
 
