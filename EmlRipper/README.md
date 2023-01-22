@@ -1,8 +1,8 @@
 # EmlRipper
 
-EmlRipper is a ruby script that allows you to extract attachments from .eml files. It utilizes the https://github.com/mystickev/My-DFIR-toolset/tree/main/EmlRipperMail gem, a library that provides a simple and elegant way to read, write, and send emails.
+EmlRipper is a ruby script that allows you to extract attachments from .eml files. It utilizes the Mail gem, a library that provides a simple and elegant way to read, write, and send emails.
 
-To use the script, you must have Ruby installed on your computer and the Mail gem. Once these requirements are met, you can run the script by navigating to the directory where the script is located in your command line and running the command:
+To use the script, you must have Ruby installed on your computer and the Mail gem.Run the script by navigating to the directory where the script is located in your command line and run the command:
 
 `chmod +x EmlRipper.rb`
 
