@@ -16,7 +16,7 @@ The script accepts the following options:
 * -d, --destination PATH: The directory to extract attachments to. Default is the current working directory.
 
 ## Examples:
-
+The script automatically downloads gem dependencies if not available in your machine so an internet connection is needed.
 Extract attachments from all .eml files in the current working directory and save them to the current working directory:
 
 ```sudo ./EmlRipper.rb```
