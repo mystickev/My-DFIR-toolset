@@ -33,6 +33,6 @@ Extract attachments from all .eml files in the specified directory and its subdi
 
 ```sudo ./EmlRipper.rb -s /path/to/eml/files -r -d /path/to/save/attachments```
 
-I have included some [eml files](https://github.com/mystickev/My-DFIR-toolset/tree/main/EmlRipper/test-eml) from a challenge in CyberDefenders to play around with.
+I have included some [Eml files](https://github.com/mystickev/My-DFIR-toolset/tree/main/EmlRipper/test-eml) from a challenge in CyberDefenders to play around with.
 
 *NOTE:* This script was created by [Mystik](https://twitter.com/Mystik_kev) for personal use and is not officially supported. Use at your own risk.
